@@ -10,10 +10,10 @@
 flowchart TD
     A["TMDB API<br/>(~900 titles)"] -->|build_dataset.py| B["ground_truth.json<br/>data/catalog.json"]
     B -->|detector.py| C["Blocking<br/>(prefix + year)"]
-    C -->|score_pair()| D["Weighted Scoring<br/>6 signals"]
+    C -->|"score_pair()"| D["Weighted Scoring<br/>6 signals"]
     D -->|classify| E["4 SOP Categories"]
-    E -->|exporter.py| F["web/public/data/\n(JSON artifacts)"]
-    F -->|Next.js 14| G["Dashboard"]
+    E -->|exporter.py| F["web/public/data/<br/>(JSON artifacts)"]
+    F -->|"Next.js 14"| G["Dashboard"]
     G --> H["Overview KPIs"]
     G --> I["Review Queue"]
     G --> J["Threshold Lab"]

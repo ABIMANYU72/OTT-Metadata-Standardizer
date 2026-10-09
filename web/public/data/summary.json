@@ -1,0 +1,32 @@
+{
+  "total_records": 997,
+  "total_issues": 2195,
+  "issues_by_category": {
+    "DUPLICATE": 315,
+    "MISSING_METADATA": 1812,
+    "METADATA_MISMATCH": 25,
+    "INVALID_FORMAT": 43
+  },
+  "issues_by_severity": {
+    "CRITICAL": 121,
+    "HIGH": 261,
+    "LOW": 1768,
+    "MEDIUM": 45
+  },
+  "detection": {
+    "candidate_pairs": 607,
+    "n_squared": 496506,
+    "comparison_savings_pct": 99.9,
+    "auto_flagged": 112,
+    "needs_review": 203
+  },
+  "evaluation": {
+    "true_duplicates": 100,
+    "detected": 87,
+    "false_positives": 228,
+    "false_negatives": 13,
+    "precision": 0.2762,
+    "recall": 0.87,
+    "f1": 0.4193
+  }
+}

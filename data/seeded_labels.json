@@ -1,0 +1,1030 @@
+{
+  "duplicates": [
+    {
+      "dup_id": "D0001",
+      "original_id": "C0512",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0002",
+      "original_id": "C0021",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0003",
+      "original_id": "C0221",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0004",
+      "original_id": "C0179",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0005",
+      "original_id": "C0590",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0006",
+      "original_id": "C0542",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0007",
+      "original_id": "C0714",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0008",
+      "original_id": "C0070",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0009",
+      "original_id": "C0338",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0010",
+      "original_id": "C0024",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0011",
+      "original_id": "C0175",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0012",
+      "original_id": "C0405",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0013",
+      "original_id": "C0022",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0014",
+      "original_id": "C0160",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0015",
+      "original_id": "C0520",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0016",
+      "original_id": "C0436",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0017",
+      "original_id": "C0177",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0018",
+      "original_id": "C0472",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0019",
+      "original_id": "C0648",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0020",
+      "original_id": "C0006",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0021",
+      "original_id": "C0645",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0022",
+      "original_id": "C0559",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0023",
+      "original_id": "C0273",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0024",
+      "original_id": "C0125",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0025",
+      "original_id": "C0766",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0026",
+      "original_id": "C0270",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0027",
+      "original_id": "C0075",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0028",
+      "original_id": "C0078",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0029",
+      "original_id": "C0678",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0030",
+      "original_id": "C0483",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0031",
+      "original_id": "C0646",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0032",
+      "original_id": "C0584",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0033",
+      "original_id": "C0429",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0034",
+      "original_id": "C0779",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0035",
+      "original_id": "C0303",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0036",
+      "original_id": "C0442",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0037",
+      "original_id": "C0664",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0038",
+      "original_id": "C0495",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0039",
+      "original_id": "C0690",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0040",
+      "original_id": "C0462",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0041",
+      "original_id": "C0564",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0042",
+      "original_id": "C0037",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0043",
+      "original_id": "C0183",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0044",
+      "original_id": "C0232",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0045",
+      "original_id": "C0064",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0046",
+      "original_id": "C0187",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0047",
+      "original_id": "C0081",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0048",
+      "original_id": "C0223",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0049",
+      "original_id": "C0509",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0050",
+      "original_id": "C0292",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0051",
+      "original_id": "C0297",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0052",
+      "original_id": "C0168",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0053",
+      "original_id": "C0214",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0054",
+      "original_id": "C0750",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0055",
+      "original_id": "C0519",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0056",
+      "original_id": "C0488",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0057",
+      "original_id": "C0137",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0058",
+      "original_id": "C0584",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0059",
+      "original_id": "C0131",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0060",
+      "original_id": "C0304",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0061",
+      "original_id": "C0792",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0062",
+      "original_id": "C0512",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0063",
+      "original_id": "C0446",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0064",
+      "original_id": "C0548",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0065",
+      "original_id": "C0675",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0066",
+      "original_id": "C0621",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0067",
+      "original_id": "C0184",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0068",
+      "original_id": "C0026",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0069",
+      "original_id": "C0253",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0070",
+      "original_id": "C0215",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0071",
+      "original_id": "C0169",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0072",
+      "original_id": "C0755",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0073",
+      "original_id": "C0702",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0074",
+      "original_id": "C0252",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0075",
+      "original_id": "C0525",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0076",
+      "original_id": "C0317",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0077",
+      "original_id": "C0732",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0078",
+      "original_id": "C0368",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0079",
+      "original_id": "C0212",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0080",
+      "original_id": "C0198",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0081",
+      "original_id": "C0450",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0082",
+      "original_id": "C0211",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0083",
+      "original_id": "C0468",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0084",
+      "original_id": "C0719",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0085",
+      "original_id": "C0320",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0086",
+      "original_id": "C0176",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0087",
+      "original_id": "C0799",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0088",
+      "original_id": "C0408",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0089",
+      "original_id": "C0073",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0090",
+      "original_id": "C0038",
+      "corruption_index": 9
+    },
+    {
+      "dup_id": "D0091",
+      "original_id": "C0088",
+      "corruption_index": 0
+    },
+    {
+      "dup_id": "D0092",
+      "original_id": "C0502",
+      "corruption_index": 1
+    },
+    {
+      "dup_id": "D0093",
+      "original_id": "C0634",
+      "corruption_index": 2
+    },
+    {
+      "dup_id": "D0094",
+      "original_id": "C0338",
+      "corruption_index": 3
+    },
+    {
+      "dup_id": "D0095",
+      "original_id": "C0051",
+      "corruption_index": 4
+    },
+    {
+      "dup_id": "D0096",
+      "original_id": "C0306",
+      "corruption_index": 5
+    },
+    {
+      "dup_id": "D0097",
+      "original_id": "C0797",
+      "corruption_index": 6
+    },
+    {
+      "dup_id": "D0098",
+      "original_id": "C0424",
+      "corruption_index": 7
+    },
+    {
+      "dup_id": "D0099",
+      "original_id": "C0777",
+      "corruption_index": 8
+    },
+    {
+      "dup_id": "D0100",
+      "original_id": "C0689",
+      "corruption_index": 9
+    }
+  ],
+  "defects": [
+    {
+      "catalog_id": "C0003",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0008",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0016",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0022",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0033",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0052",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0056",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0059",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0060",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0061",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0063",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0066",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0070",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0073",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0078",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0096",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0097",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0100",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0101",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0112",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0124",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0136",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0144",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0159",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0169",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0171",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0188",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0195",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0197",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0206",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0217",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0219",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0220",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0223",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0226",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0231",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0235",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0236",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0243",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0244",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0249",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0254",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0255",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0256",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0272",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0286",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0293",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0304",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0320",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0322",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0339",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0347",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0348",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0363",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0383",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0389",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0400",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0409",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0411",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0413",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0417",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0421",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0433",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0434",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0442",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0449",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0454",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0460",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0463",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0466",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0474",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0479",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0485",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0489",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0493",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0498",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0499",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0527",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0530",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0550",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0553",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0554",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0556",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0564",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0568",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0570",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0585",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0591",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0594",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0599",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0603",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0622",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0647",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0662",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0666",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0668",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0670",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0675",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0678",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0686",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0688",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0690",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0707",
+      "defect_type": "missing_synopsis"
+    },
+    {
+      "catalog_id": "C0714",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0725",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0731",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0736",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0741",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0746",
+      "defect_type": "missing_genres"
+    },
+    {
+      "catalog_id": "C0747",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0748",
+      "defect_type": "missing_year"
+    },
+    {
+      "catalog_id": "C0749",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0754",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0772",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0774",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0788",
+      "defect_type": "wrong_language"
+    },
+    {
+      "catalog_id": "C0801",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0804",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0808",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0809",
+      "defect_type": "invalid_runtime_format"
+    },
+    {
+      "catalog_id": "C0817",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0823",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0824",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0828",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0835",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0837",
+      "defect_type": "negative_runtime"
+    },
+    {
+      "catalog_id": "C0845",
+      "defect_type": "missing_title"
+    },
+    {
+      "catalog_id": "C0848",
+      "defect_type": "invalid_year_format"
+    },
+    {
+      "catalog_id": "C0854",
+      "defect_type": "missing_certification"
+    },
+    {
+      "catalog_id": "C0874",
+      "defect_type": "wrong_year"
+    },
+    {
+      "catalog_id": "C0876",
+      "defect_type": "missing_year"
+    }
+  ]
+}

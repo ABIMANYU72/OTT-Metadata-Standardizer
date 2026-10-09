@@ -1,0 +1,14 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data
+# Note: we might want to keep the seeded_labels and catalog, but skip the large ground truth
+data/ground_truth.json
+
+# Web
+web/node_modules/
+web/.next/
+web/out/

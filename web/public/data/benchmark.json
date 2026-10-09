@@ -1,0 +1,21 @@
+{
+  "_note": "Fields marked _estimate are ESTIMATES based on documented constants, not measured values. Detection and report times are real measurements.",
+  "n_records": 997,
+  "detection_seconds_real": 0.033,
+  "detection_seconds_per_record_real": 3e-05,
+  "report_seconds_real": null,
+  "manual_seconds_per_record_estimate": 10.0,
+  "manual_detection_total_seconds_estimate": 9970.0,
+  "manual_report_seconds_estimate": 1800.0,
+  "time_saved_seconds_estimate": 9970.0,
+  "speedup_factor_estimate": 298025.6,
+  "evaluation": {
+    "true_duplicates": 100,
+    "detected": 87,
+    "false_positives": 228,
+    "false_negatives": 13,
+    "precision": 0.2762,
+    "recall": 0.87,
+    "f1": 0.4193
+  }
+}
